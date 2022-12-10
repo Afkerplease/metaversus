@@ -33,7 +33,7 @@ const Footer = () => (
       </div>
       <div className=" flex flex-col">
         <div className=" mb-[50px] h-[2px] bg-white opacity-10  " />
-        <div className="flex items-center justify-between flex-wrap">
+        <div className="flex items-center gap-4 justify-between flex-wrap">
           <h4 className="font-extrabold text-[24px] text-white  ">
             Metaversus
           </h4>
